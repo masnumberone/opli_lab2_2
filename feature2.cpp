@@ -1,0 +1,1 @@
+feature func 2
